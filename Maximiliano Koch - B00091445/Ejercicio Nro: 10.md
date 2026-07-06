@@ -1,4 +1,6 @@
-#Enunciado
+# Ejercicio 10
+
+# Enunciado
 Actividad: Selección de 4 principios básicos (30 minutos)
 
 Grupos de 6 personas
